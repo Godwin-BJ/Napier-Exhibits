@@ -1,1 +1,100 @@
+{
+  "id": "vishnu-bronze",
+  "accession": "NM / BR / 014",
 
+  "images": {
+    "hero": "images/hero.jpg",
+    "detail": "images/detail.jpg"
+  },
+
+  "labels": {
+    "material": "Cast Bronze",
+    "period": "c. 8th Century CE",
+    "tradition": "Chera / Chola School"
+  },
+
+  "readAloud": {
+    "language": "en",
+    "sentences": [
+      "This bronze image of Vishnu is counted among the earliest and most celebrated works in the Napier Museum's collection of South Indian temple sculpture.",
+      "Cast according to the classical iconographic canons of the Silpa Sastras, it belongs to a sculptural lineage carried through the Chera, Chola and Pallava workshops of early medieval South India.",
+      "These traditions shaped temple bronze and stone imagery across Kerala and Tamil Nadu from the 8th through the 18th century CE.",
+      "The figure stands among roughly 550 exhibits gathered under Travancore royal patronage, housed inside a museum whose Indo-Saracenic halls were purpose-built to hold exactly this kind of devotional bronze and stone imagery.",
+      "Alongside comparable images of Siva, Parvathi and Lakshmi elsewhere in the Bronze Gallery, this Vishnu icon offers a rare, close view of how South Indian metal-casters translated temple ritual into enduring form."
+    ]
+  },
+
+  "timeline": [
+    { "year": "c. 700s CE", "en": { "heading": "Cast in bronze", "text": "Fashioned by South Indian metal-casters working within the Silpa Sastras' prescribed proportions for devotional icons." } },
+    { "year": "1855", "en": { "heading": "A museum is conceived", "text": "Maharaja Uthram Thirunal of Travancore begins organizing a society to house the kingdom's art and natural-history collections." } },
+    { "year": "1880", "en": { "heading": "Napier Museum opens", "text": "Under Sri Ayilyam Thirunal, the present Indo-Saracenic building — designed by Robert Chisholm and named for Lord Napier — opens to the public." } },
+    { "year": "Today", "en": { "heading": "On permanent display", "text": "The image remains on view in the Bronze Gallery as one of the museum's signature devotional bronzes." } }
+  ],
+
+  "translations": {
+    "en": {
+      "title": "Vishnu",
+      "eyebrow": "Bronze Gallery — Exhibit No. 014",
+      "heroSub": "A life-size bronze icon cast in the 8th century CE, standing among the earliest devotional images held in Kerala's oldest public museum.",
+      "labelMaterial": "Material", "labelPeriod": "Period", "labelTradition": "Tradition", "labelAccession": "Accession",
+      "audioTag": "Listen", "audioHeading": "Hear the story",
+      "audioTitle": "Read Aloud", "audioHint": "Tap play — the text highlights sentence by sentence as it's read.",
+      "speedLabel": "SPEED",
+      "englishOnlyNote": "Read-aloud works in English only. Switch to EN to listen along with the highlighted text.",
+      "bioTag": "Biography", "bioHeading": "The image and its making",
+      "bioParagraph1": "This bronze image of Vishnu is counted among the earliest and most celebrated works in the Napier Museum's collection of South Indian temple sculpture. Cast according to the classical iconographic canons of the Silpa Sastras, it belongs to a sculptural lineage carried through the Chera, Chola and Pallava workshops of early medieval South India. These traditions shaped temple bronze and stone imagery across Kerala and Tamil Nadu from the 8th through the 18th century CE.",
+      "bioParagraph2": "The figure stands among roughly 550 exhibits gathered under Travancore royal patronage, housed inside a museum whose Indo-Saracenic halls were purpose-built to hold exactly this kind of devotional bronze and stone imagery. Alongside comparable images of Siva, Parvathi and Lakshmi elsewhere in the Bronze Gallery, this Vishnu icon offers a rare, close view of how South Indian metal-casters translated temple ritual into enduring form.",
+      "detailCap": "Detail — cast bronze surface, Bronze Gallery",
+      "provTag": "Provenance", "provHeading": "From temple to gallery",
+      "footerLine": "Digital exhibit page · Bronze Gallery · Thiruvananthapuram, Kerala"
+    },
+    "ta": {
+      "title": "விஷ்ணு",
+      "eyebrow": "வெண்கல அரங்கம் — கண்காட்சி எண். 014",
+      "heroSub": "8ஆம் நூற்றாண்டில் வார்க்கப்பட்ட முழு-அளவு வெண்கலச் சிலை, கேரளாவின் பழமையான பொது அருங்காட்சியகத்தில் உள்ள ஆரம்பகால வழிபாட்டு உருவங்களில் ஒன்று.",
+      "labelMaterial": "பொருள்", "labelPeriod": "காலம்", "labelTradition": "பாரம்பரியம்", "labelAccession": "பதிவு எண்",
+      "audioTag": "கேளுங்கள்", "audioHeading": "கதையைக் கேளுங்கள்",
+      "audioTitle": "படித்துக் காட்டு", "audioHint": "ஆங்கிலத்தில் மட்டுமே கிடைக்கும்.",
+      "speedLabel": "வேகம்",
+      "englishOnlyNote": "படித்துக் காட்டும் வசதி ஆங்கிலத்தில் மட்டுமே. கேட்க EN-க்கு மாறவும்.",
+      "bioTag": "வரலாறு", "bioHeading": "சிலையும் அதன் உருவாக்கமும்",
+      "bioParagraph1": "இந்த விஷ்ணு வெண்கலச் சிலை, நேப்பியர் அருங்காட்சியகத்தின் தென்னிந்திய கோவில் சிற்பத் தொகுப்பில் மிகவும் பழமையான, புகழ்பெற்ற படைப்புகளில் ஒன்றாகும். சில்ப சாஸ்திரங்களின் பாரம்பரிய உருவவியல் நெறிமுறைகளின்படி வார்க்கப்பட்ட இது, சேர, சோழ, பல்லவ பட்டறைகள் வழியாக பரவிய சிற்பப் பாரம்பரியத்தைச் சேர்ந்தது. இந்த பாரம்பரியங்கள் கி.பி. 8 முதல் 18ஆம் நூற்றாண்டு வரை கேரளா மற்றும் தமிழ்நாடு முழுவதும் கோவில் வெண்கல, கல் உருவங்களை வடிவமைத்தன.",
+      "bioParagraph2": "திருவிதாங்கூர் அரச ஆதரவின் கீழ் திரட்டப்பட்ட சுமார் 550 கண்காட்சிப் பொருட்களில் இந்த சிலையும் ஒன்று, இது இதுபோன்ற வழிபாட்டு உருவங்களை வைக்கவே கட்டப்பட்ட இந்தோ-சராசெனிக் கட்டிடத்தில் உள்ளது. இதே அரங்கத்திலுள்ள சிவன், பார்வதி, லக்ஷ்மி உருவங்களுடன் சேர்ந்து, தென்னிந்திய உலோகக் கலைஞர்கள் கோவில் சடங்கு தேவைகளை நிலையான கலை வடிவமாக்கிய விதத்தை இந்த விஷ்ணு சிலை காட்டுகிறது.",
+      "detailCap": "நுணுக்கம் — வார்க்கப்பட்ட வெண்கல மேற்பரப்பு, வெண்கல அரங்கம்",
+      "provTag": "பரம்பரை", "provHeading": "கோவிலிலிருந்து அரங்கம் வரை",
+      "footerLine": "டிஜிட்டல் கண்காட்சிப் பக்கம் · வெண்கல அரங்கம் · திருவனந்தபுரம், கேரளா"
+    },
+    "ml": {
+      "title": "വിഷ്ണു",
+      "eyebrow": "വെങ്കല ഗാലറി — എക്സിബിറ്റ് നമ്പർ 014",
+      "heroSub": "എട്ടാം നൂറ്റാണ്ടിൽ വാർത്തെടുത്ത പൂർണ്ണ വലിപ്പമുള്ള വെങ്കല വിഗ്രഹം, കേരളത്തിലെ ഏറ്റവും പഴയ പൊതു മ്യൂസിയത്തിലെ ആദ്യകാല ആരാധനാ ബിംബങ്ങളിലൊന്ന്.",
+      "labelMaterial": "വസ്തു", "labelPeriod": "കാലഘട്ടം", "labelTradition": "പാരമ്പര്യം", "labelAccession": "അക്സഷൻ നമ്പർ",
+      "audioTag": "കേൾക്കുക", "audioHeading": "കഥ കേൾക്കൂ",
+      "audioTitle": "വായിച്ചു കേൾപ്പിക്കൽ", "audioHint": "ഇംഗ്ലീഷിൽ മാത്രം ലഭ്യം.",
+      "speedLabel": "വേഗത",
+      "englishOnlyNote": "വായിച്ചു കേൾപ്പിക്കൽ ഇംഗ്ലീഷിൽ മാത്രമേ ലഭ്യമാകൂ. കേൾക്കാൻ EN-ലേക്ക് മാറുക.",
+      "bioTag": "ചരിത്രം", "bioHeading": "ബിംബവും അതിന്റെ നിർമ്മാണവും",
+      "bioParagraph1": "ഈ വിഷ്ണു വെങ്കല ബിംബം, നേപ്പിയർ മ്യൂസിയത്തിലെ ദക്ഷിണേന്ത്യൻ ക്ഷേത്ര ശിൽപശേഖരത്തിലെ ഏറ്റവും പഴക്കമുള്ളതും പ്രശസ്തവുമായ കൃതികളിലൊന്നാണ്. ശില്പശാസ്ത്രങ്ങളുടെ ക്ലാസിക്കൽ ഐക്കണോഗ്രാഫിക് നിയമങ്ങൾ പ്രകാരം വാർത്തെടുത്ത ഇത്, ചേര, ചോള, പല്ലവ പണിശാലകളിലൂടെ കടന്നുപോയ ശിൽപപാരമ്പര്യത്തിന്റെ ഭാഗമാണ്. ഈ പാരമ്പര്യങ്ങൾ എ.ഡി. 8 മുതൽ 18 വരെയുള്ള നൂറ്റാണ്ടുകളിൽ കേരളത്തിലും തമിഴ്‌നാട്ടിലും ക്ഷേത്ര വെങ്കല, കല്ല് ബിംബങ്ങളെ രൂപപ്പെടുത്തി.",
+      "bioParagraph2": "തിരുവിതാംകൂർ രാജകീയ സംരക്ഷണത്തിൽ ശേഖരിച്ച ഏകദേശം 550 പ്രദർശന വസ്തുക്കളിൽ ഒന്നാണ് ഈ ബിംബം, ഇത്തരം ആരാധനാ ബിംബങ്ങൾ സൂക്ഷിക്കാൻ വേണ്ടി പണിത ഇന്തോ-സാരസെനിക് കെട്ടിടത്തിലാണ് ഇത് സ്ഥിതി ചെയ്യുന്നത്. അതേ ഗാലറിയിലുള്ള ശിവൻ, പാർവതി, ലക്ഷ്മി ബിംബങ്ങൾക്കൊപ്പം, ദക്ഷിണേന്ത്യൻ ലോഹശിൽപികൾ ക്ഷേത്ര ആചാരാവശ്യങ്ങളെ ശാശ്വത കലാരൂപമാക്കി മാറ്റിയ രീതി ഈ വിഷ്ണു ബിംബം കാണിച്ചുതരുന്നു.",
+      "detailCap": "വിശദാംശം — വാർത്ത വെങ്കല പ്രതലം, വെങ്കല ഗാലറി",
+      "provTag": "ഉത്ഭവം", "provHeading": "ക്ഷേത്രത്തിൽ നിന്ന് ഗാലറിയിലേക്ക്",
+      "footerLine": "ഡിജിറ്റൽ എക്സിബിറ്റ് പേജ് · വെങ്കല ഗാലറി · തിരുവനന്തപുരം, കേരളം"
+    },
+    "hi": {
+      "title": "विष्णु",
+      "eyebrow": "कांस्य दीर्घा — प्रदर्श संख्या 014",
+      "heroSub": "8वीं शताब्दी में ढाली गई यह आदमकद कांस्य प्रतिमा केरल के सबसे पुराने सार्वजनिक संग्रहालय की शुरुआती पूजा-मूर्तियों में से एक है।",
+      "labelMaterial": "सामग्री", "labelPeriod": "काल", "labelTradition": "परंपरा", "labelAccession": "पंजीकरण संख्या",
+      "audioTag": "सुनें", "audioHeading": "कहानी सुनें",
+      "audioTitle": "ज़ोर से पढ़ें", "audioHint": "केवल अंग्रेज़ी में उपलब्ध।",
+      "speedLabel": "गति",
+      "englishOnlyNote": "ज़ोर से पढ़ने की सुविधा केवल अंग्रेज़ी में उपलब्ध है। सुनने के लिए EN पर स्विच करें।",
+      "bioTag": "जीवनी", "bioHeading": "प्रतिमा और उसका निर्माण",
+      "bioParagraph1": "विष्णु की यह कांस्य प्रतिमा नेपियर संग्रहालय के दक्षिण भारतीय मंदिर शिल्प संग्रह की सबसे पुरानी और प्रसिद्ध कृतियों में गिनी जाती है। शिल्प शास्त्रों के शास्त्रीय प्रतिमा-विज्ञान नियमों के अनुसार ढाली गई यह प्रतिमा चेर, चोल और पल्लव कार्यशालाओं से होकर आई शिल्प परंपरा से संबंधित है। इन परंपराओं ने 8वीं से 18वीं शताब्दी ई. तक केरल और तमिलनाडु में मंदिर की कांस्य और पत्थर की मूर्तियों को आकार दिया।",
+      "bioParagraph2": "त्रावणकोर राजघराने के संरक्षण में एकत्रित लगभग 550 प्रदर्शों में यह प्रतिमा भी शामिल है, जो एक ऐसे इंडो-सारसेनिक भवन में रखी गई है जिसे ठीक इसी तरह की पूजा-मूर्तियों के लिए बनाया गया था। उसी दीर्घा में मौजूद शिव, पार्वती और लक्ष्मी की प्रतिमाओं के साथ, यह विष्णु प्रतिमा दिखाती है कि दक्षिण भारतीय धातु-शिल्पियों ने मंदिर की अनुष्ठान आवश्यकताओं को स्थायी कला रूप में कैसे बदला।",
+      "detailCap": "विवरण — ढाली गई कांस्य सतह, कांस्य दीर्घा",
+      "provTag": "उद्भव", "provHeading": "मंदिर से दीर्घा तक",
+      "footerLine": "डिजिटल प्रदर्श पृष्ठ · कांस्य दीर्घा · तिरुवनंतपुरम, केरल"
+    }
+  }
+}
