@@ -3,9 +3,9 @@
   "accession": "NM / BR / 014",
 
   "images": {
-    "hero": "images/hero.jpg",
-    "detail": "images/detail.jpg"
-  },
+  "hero": "exhibits/vishnu-bronze/images/hero.jpg",
+  "detail": "exhibits/vishnu-bronze/images/detail.jpg"
+  }
 
   "labels": {
     "material": "Cast Bronze",
